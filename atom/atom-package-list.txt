@@ -1,0 +1,12 @@
+atom-beautify@0.29.13
+autoclose-html@0.23.0
+eclectic-syntax@0.2.1
+editorconfig@1.4.1
+firewatch-syntax@1.0.1
+linter@1.11.18
+linter-eslint@7.3.2
+oceanic-next@0.4.0
+oceanic-reef-syntax@0.6.0
+react@0.16.0
+
+
